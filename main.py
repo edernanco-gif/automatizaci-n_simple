@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import re
 import sys
 # Importamos las funciones de lógica de negocio desde nuestro paquete de funciones
